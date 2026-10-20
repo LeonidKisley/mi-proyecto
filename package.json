@@ -12,5 +12,10 @@
   "description": "",
   "devDependencies": {
     "nodemon": "^3.1.14"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "ls": "^1.0.0",
+    "morgan": "^1.12.1"
   }
 }
